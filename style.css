@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Sarala:wght@400;700&display=swap');
+
 body{
     height: 95vh;
     width: 95;
@@ -6,4 +8,12 @@ body{
     align-items: center;
     flex-direction: column;
     color: rgb(6, 65, 6);
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 54%, rgba(0,212,255,1) 100%); 
+}
+
+h1 {
+    font-family: 'Righteous', cursive;
+    font-size: 40px;
+    color: #13940f;
 }
